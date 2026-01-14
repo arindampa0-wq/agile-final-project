@@ -5,12 +5,9 @@ I need to create and manage products in the catalog
 So that customers can view and purchase available products
 
 Details and Assumptions
-
-Each product has a name, price, description, and stock quantity
-
-Products are stored in a backend product catalog service
-
-The catalog is accessible via REST APIs
+- Each product has a name, price, description, and stock quantity
+- Products are stored in a backend product catalog service
+- The catalog is accessible via REST APIs
 
 Acceptance Criteria
 Given the product catalog service is running
